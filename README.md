@@ -13,6 +13,7 @@ Passionate about technology and continuous learning, assiduous in the study of n
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
 <img height="26" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img height="26" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <hr>
 
